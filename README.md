@@ -78,9 +78,3 @@
 - При использовании CommandPlugin помните, что команды сортируются в соответствии с количеством пробелов в команде (от большего к меньшему)
 - При запуске `run.py`, будет попытка использовать настройки `BotSettings` из файла с настройками `settings_prod.py`, затем, в случае неудачи, будет использован `BotSettings` из `settings.py`.
 
-#### Участники проекта:
-- [Список участников (все молодцы! большие!)](https://github.com/ekonda/sketal/graphs/contributors)
-- [Плагинчик сделал](https://github.com/TumkasCor)
-- [Плагинчик сделал](https://github.com/Lis1us)
-
-@michaelkrukov http://michaelkrukov.ru/
